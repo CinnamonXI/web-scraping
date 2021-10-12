@@ -1,0 +1,447 @@
+{
+  "premium plan": {
+    "home 1": {
+      "name": "Camberwall Advantage",
+      "location": "IKATE LEKKI, LAGOS.",
+      "description": "Camberwall Advantage is an upscale real estate development project by Veritasi Homes and Properties. Comprising apartments and units of flat, Camberwall Advantage is strategically located at Ikate.\u00a0The proposed project features unique and elegant designs tailored to meet the need of the modern day investor as well as appeal to aesthetics. With the existing reputation of Veritasi Homes with Camberwall projects, this project promises homes of a high standard, quality finishings and best value for investment.\u00a0Our strategy transcends developing homes to solve the housing problems of Nigeria, we have injected interesting metrics to help our clients get cash flow into our product plan. With this,\u00a0 Camberwall Advantage is set to set a new hallmark for a sophisticated urban living.Ikate is one of the most developed neighbourhoods in Lagos Island, just about five minutes drive from the Lekki, assets here are a goldmine. Appreciation and easy liquidation of assets is assured.",
+      "payment plans": {
+        "advantage 1": {
+          "2 bedroom payment plan": {
+            "PAYMENT PERIOD": {
+              "0": "Price",
+              "1": "Initial Deposit",
+              "2": "1st Payment",
+              "3": "2nd Payment",
+              "4": "3rd Payment",
+              "5": "4th Payment",
+              "6": "5th Payment",
+              "7": "6th Payment"
+            },
+            "3 MONTHS CUSTOM PLAN": {
+              "0": "\u20a645,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a610,000,000.00",
+              "3": "\u20a612,500,000.00",
+              "4": "\u20a67,500,000.00",
+              "5": NaN,
+              "6": NaN,
+              "7": NaN
+            },
+            "6 MONTHS CUSTOM PLAN": {
+              "0": "\u20a646,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a610,000,000.00",
+              "3": "\u20a610,000,000.00",
+              "4": "\u20a67,500,000.00",
+              "5": "\u20a64,500,000.00",
+              "6": NaN,
+              "7": "\u20a64,000,000.00"
+            },
+            "12 MONTHS CUSTOM PLAN": {
+              "0": "\u20a647,500,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a610,000,000.00",
+              "3": "\u20a68,500,000.00",
+              "4": "\u20a67,000,000.00",
+              "5": "\u20a65,500,000.00",
+              "6": "\u20a65,500,000.00",
+              "7": "\u20a62,500,000.00"
+            }
+          },
+          "3 bedroom payment plan": {
+            "PAYMENT PERIOD": {
+              "0": "Price",
+              "1": "Initial Deposit",
+              "2": "1st Payment",
+              "3": "2nd Payment",
+              "4": "3rd Payment",
+              "5": "4th Payment",
+              "6": "5th Payment",
+              "7": "6th Payment"
+            },
+            "3 MONTHS CUSTOM PLAN": {
+              "0": "\u20a675,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a625,000,000.00",
+              "3": "\u20a620,000,000.00",
+              "4": "\u20a620,000,000.00",
+              "5": NaN,
+              "6": NaN,
+              "7": NaN
+            },
+            "6 MONTHS CUSTOM PLAN": {
+              "0": "\u20a676,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a620,000,000.00",
+              "3": "\u20a618,500,000.00",
+              "4": "\u20a612,500,000.00",
+              "5": "\u20a610,000,000.00",
+              "6": NaN,
+              "7": "\u20a65,000,000.00"
+            },
+            "12 MONTHS CUSTOM PLAN": {
+              "0": "\u20a677,500,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a617,500,000.00",
+              "3": "\u20a615,000,000.00",
+              "4": "\u20a613,000,000.00",
+              "5": "\u20a610,000,000.00",
+              "6": "\u20a67,000,000.00",
+              "7": "\u20a65,000,000.00"
+            }
+          }
+        },
+        "advantage 2": {
+          "2 bedroom payment plan": {
+            "PAYMENT PERIOD": {
+              "0": "Price",
+              "1": "Initial Deposit",
+              "2": "1st Payment",
+              "3": "2nd Payment",
+              "4": "3rd Payment",
+              "5": "4th Payment",
+              "6": "5th Payment",
+              "7": "6th Payment"
+            },
+            "3 MONTHS CUSTOM PLAN": {
+              "0": "\u20a644,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a615,000,000.00",
+              "3": "\u20a615,00,000.00",
+              "4": "\u20a64,000,000.00",
+              "5": NaN,
+              "6": NaN,
+              "7": NaN
+            },
+            "6 MONTHS CUSTOM PLAN": {
+              "0": "\u20a645,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a68,500,000.00",
+              "3": "\u20a68,500,000.00",
+              "4": "\u20a68,500,000.00",
+              "5": "\u20a66,000,000.00",
+              "6": NaN,
+              "7": "\u20a63,500,000.00"
+            },
+            "12 MONTHS CUSTOM PLAN": {
+              "0": "\u20a646,500,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a68,500,000.00",
+              "3": "\u20a68,500,000.00",
+              "4": "\u20a67,000,000.00",
+              "5": "\u20a65,500,000.00",
+              "6": "\u20a64,000,000.00",
+              "7": "\u20a63,000,000.00"
+            }
+          },
+          "3 bedroom payment plan": {
+            "PAYMENT PERIOD": {
+              "0": "Price",
+              "1": "Initial Deposit",
+              "2": "1st payment",
+              "3": "2nd Payment",
+              "4": "3rd payment",
+              "5": "4th Payment",
+              "6": "5th Payment",
+              "7": "6th Payment",
+              "8": "7th Payment",
+              "9": "8th Payment",
+              "10": "9th Payment",
+              "11": "10th Payment",
+              "12": "11th Payment",
+              "13": "12th Payment",
+              "14": "13th Payment",
+              "15": "14th Payment",
+              "16": "15th Payment",
+              "17": "16th Payment",
+              "18": "17th Payment",
+              "19": "18th Payment"
+            },
+            "3 MONTHS": {
+              "0": "\u20a665,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a620,000,000.00",
+              "3": "\u20a620,000,000.00",
+              "4": "\u20a615,000,000.00",
+              "5": NaN,
+              "6": NaN,
+              "7": NaN,
+              "8": NaN,
+              "9": NaN,
+              "10": NaN,
+              "11": NaN,
+              "12": NaN,
+              "13": NaN,
+              "14": NaN,
+              "15": NaN,
+              "16": NaN,
+              "17": NaN,
+              "18": NaN,
+              "19": NaN
+            },
+            "6 MONTHS": {
+              "0": "\u20a666,500,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a620,000,000.00",
+              "3": "\u20a615,000,000.00",
+              "4": "\u20a610,000,000.00",
+              "5": "\u20a67,500,000.00",
+              "6": NaN,
+              "7": "\u20a64,000,000.00",
+              "8": NaN,
+              "9": NaN,
+              "10": NaN,
+              "11": NaN,
+              "12": NaN,
+              "13": NaN,
+              "14": NaN,
+              "15": NaN,
+              "16": NaN,
+              "17": NaN,
+              "18": NaN,
+              "19": NaN
+            },
+            "12 MONTHS": {
+              "0": "\u20a668,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a615,000,000.00",
+              "3": "\u20a615,000,000.00",
+              "4": "\u20a610,000,000.00",
+              "5": "\u20a67,500,000.00",
+              "6": "\u20a67,500,000.00",
+              "7": "\u20a63,000,000.00",
+              "8": NaN,
+              "9": NaN,
+              "10": NaN,
+              "11": NaN,
+              "12": NaN,
+              "13": NaN,
+              "14": NaN,
+              "15": NaN,
+              "16": NaN,
+              "17": NaN,
+              "18": NaN,
+              "19": NaN
+            },
+            "18 MONTHS": {
+              "0": "\u20a670,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a615,000,000.00",
+              "3": "\u20a610,000,000.00",
+              "4": "\u20a67,500,000.00",
+              "5": "\u20a67,500,000.00",
+              "6": "\u20a65,000,000.00",
+              "7": "\u20a65,000,000.00",
+              "8": "\u20a62,500,000.00",
+              "9": "\u20a62,500,000.00",
+              "10": "\u20a62,500,000.00",
+              "11": "\u20a62,500,000.00",
+              "12": "\u20a62,500,000.00",
+              "13": NaN,
+              "14": NaN,
+              "15": NaN,
+              "16": NaN,
+              "17": NaN,
+              "18": NaN,
+              "19": NaN
+            },
+            "24 MONTHS": {
+              "0": "\u20a675,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a610,000,000.00",
+              "3": "\u20a610,000,000.00",
+              "4": "\u20a67,500,000.00",
+              "5": "\u20a67,500,000.00",
+              "6": "\u20a65,000,000.00",
+              "7": "\u20a62,500,000.00",
+              "8": "\u20a62,500,000.00",
+              "9": "\u20a62,500,000.00",
+              "10": "\u20a62,500,000.00",
+              "11": "\u20a62,500,000.00",
+              "12": "\u20a62,500,000.00",
+              "13": "\u20a62,500,000.00",
+              "14": "\u20a61,500,000.00",
+              "15": "\u20a61,500,000.00",
+              "16": "\u20a61,500,000.00",
+              "17": "\u20a61,500,000.00",
+              "18": "\u20a61,500,000.00",
+              "19": NaN
+            }
+          },
+          "4 bedroom payment plan": {
+            "PAYMENT PERIOD": {
+              "0": "Price",
+              "1": "Initial Deposit",
+              "2": "1st Payment",
+              "3": "2nd Payment",
+              "4": "3rd Payment",
+              "5": "4th Payment",
+              "6": "5th Payment",
+              "7": "6th Payment"
+            },
+            "3 MONTHS CUSTOM PLAN": {
+              "0": "\u20a695,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a633,000,000.00",
+              "3": "\u20a633,000,000.00",
+              "4": "\u20a619,000,000.00",
+              "5": NaN,
+              "6": NaN,
+              "7": NaN
+            },
+            "6 MONTHS CUSTOM PLAN": {
+              "0": "\u20a696,000,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a622,000,000.00",
+              "3": "\u20a622,000,000.00",
+              "4": "\u20a616,000,000.00",
+              "5": "\u20a616,000,000.00",
+              "6": NaN,
+              "7": "\u20a610,000,000.00"
+            },
+            "12 MONTHS CUSTOM PLAN": {
+              "0": "\u20a697,500,000.00",
+              "1": "\u20a610,000,000.00",
+              "2": "\u20a620,000,000.00",
+              "3": "\u20a618,000,000.00",
+              "4": "\u20a615,000,000.00",
+              "5": "\u20a615,000,000.00",
+              "6": "\u20a612,500,000.00",
+              "7": "\u20a67,000,000.00"
+            }
+          }
+        }
+      },
+      "images": [
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/visual-1-p3o1dwnq6paqeeu49ghztit0k35n82kik7l1bnfuko.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/Drone-2-p3o1dvpvzv9g2svhey3d911jypaa0dgs82xjudh8qw.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/drone-5-p3o1dwnq6paqeeu49ghztit0k35n82kik7l1bnfuko.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/1-1-p3o1dus1t185r6wukfoqoja3dbewsod1vya2d3imx4.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/Adv.-7-p3o1dvpvzv9g2svhey3d911jypaa0dgs82xjudh8qw.jpg"
+      ]
+    },
+    "home 2": {
+      "name": "Camberwall Court Phase 2\n",
+      "location": "ABIJO GRA, LAGOS.",
+      "description": "Camberwall Courts Phase 2, is an Urban apartment development designed to reflect the magical merge of form and function in its architecture. Its design caters to modern living for residents of the apartments. Located in the heart of Abijo GRA along the Lekki-Epe Expressway, the estate is a masterpiece. It features a splendid layout, visitors park, smart card access, renewable energy and surveillance.",
+      "payment plans": {
+        "2 bedroom payment plan": {
+          "PAYMENT PERIOD": {
+            "0": "Initial Deposit",
+            "1": "Outright"
+          },
+          "3 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a621,000,000"
+          },
+          "6 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a621,500,000"
+          },
+          "12 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a622,000,000"
+          },
+          "18 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a623,000,000"
+          }
+        },
+        "3 bedroom payment plan": {
+          "PAYMENT PERIOD": {
+            "0": "Initial Deposit",
+            "1": "Outright"
+          },
+          "3 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a627,000,000"
+          },
+          "6 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a627,500,000"
+          },
+          "12 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a628,000,000"
+          },
+          "18 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a629,000,000"
+          }
+        },
+        "4 bedroom semi-detached payment plan": {
+          "PAYMENT PERIOD": {
+            "0": "Initial Deposit",
+            "1": "Outright"
+          },
+          "3 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a645,000,000"
+          },
+          "6 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a645,500,000"
+          },
+          "12 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a646,000,000"
+          },
+          "18 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a646,500,000"
+          }
+        },
+        "3 bedroom terraces payment plan": {
+          "PAYMENT PERIOD": {
+            "0": "Initial Deposit",
+            "1": "Outright"
+          },
+          "3 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a634,000,000"
+          },
+          "6 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a634,500,000.00"
+          },
+          "12 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a635,000,000.00"
+          },
+          "18 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a635,500,000.00"
+          }
+        },
+        "3 bedroom bungalow payment plan": {
+          "PAYMENT PERIOD": {
+            "0": "Initial Deposit",
+            "1": "Outright"
+          },
+          "3 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a633,000,000"
+          },
+          "6 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a633,500,000"
+          },
+          "12 MONTHS": {
+            "0": "\u20a64,000,000.00",
+            "1": "\u20a635,000,000"
+          }
+        }
+      },
+      "images": [
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/SEMI-DETACHED-4-p3o1dwnq6paqeeu49ghztit0k35n82kik7l1bnfuko.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/TERRACE-5-p3o1dwnq6paqeeu49ghztit0k35n82kik7l1bnfuko.jpg",
+        "https://veritasihomes.com/wp-content/uploads/elementor/thumbs/BUNGALOW-2-1-p3o1dvpvzv9g2svhey3d911jypaa0dgs82xjudh8qw.jpg"
+      ]
+    }
+  },
+  "virtual tours": {
+    "camberwall apartments": "https://veritasihomes.com/courtApartment_virtualtour/",
+    "camberwall terraces": "https://veritasihomes.com/court_terrace_virtualtour/",
+    "camberwall bungalow": "https://veritasihomes.com/CourtBungalow_virtualtour/"
+  }
+}
